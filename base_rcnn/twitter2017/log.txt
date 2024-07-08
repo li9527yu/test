@@ -1,0 +1,5 @@
+07/03/2024 19:52:29 - INFO - __main__ -   dataset:twitter2017   num_train_epochs:9.0
+07/03/2024 19:52:29 - INFO - __main__ -   SA_learning_rate:1e-05  warmup_proportion:0.1
+07/03/2024 19:52:29 - INFO - __main__ -   VG_learning_rate:1e-06   warmup_proportion:0.1
+07/03/2024 19:52:29 - INFO - __main__ -     ranking_loss_ratio:0.5  pred_loss_ratio:1.0  
+07/03/2024 19:52:29 - INFO - __main__ -   Namespace(SA_learning_rate=1e-05, VG_data_dir='../data/Image_Target_Matching//%s.pkl', VG_imagefeat_dir='../data/twitter_images/twitter2017_extract', VG_learning_rate=1e-06, data_dir='../data/Sentiment_Analysis/twitter2017/%s.pkl', dataset='twitter2017', eval_batch_size=32, imagefeat_dir='../data/twitter_images/twitter2017_extract', max_seq_length=128, num_train_epochs=9.0, output_dir='../log/base_rcnn/twitter2017/', pred_loss_ratio=1.0, ranking_loss_ratio=0.5, roi_num=100, save=True, seed=2020, train_batch_size=32, warmup_proportion=0.1)
